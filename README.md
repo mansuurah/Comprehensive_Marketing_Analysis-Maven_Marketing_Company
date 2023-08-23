@@ -16,9 +16,13 @@ In data analysis, there are set of processes whose significance cannot be overst
 6.	Insights and Recommendations 
 ## Business Question 
 Data analytics process generally begins with defining a specific, measurable, action-oriented and relevant business questions that the analysis aims to address. The business questions serve as a guide for the entire analysis, helping to focus efforts and determine the scope of the data gathering and analysis. The following business questions are what I intend to answer by analyzing this dataset:
-1.	Assess the Campaign Effectiveness: By examining the data on campaign successes and failure, we can determine which of the marketing campaign have the best ROI and was most in driving sales which will help the company in making important decisions about resource allocation. 
-2.	What Are Customer Preferences and Trends: Identifying patterns in consumer behavior, preferences, and engagement. Understanding how customers interact with the company’s products can provide valuable insights into tailoring marketing strategies to meet their needs.
-3.	Refine Target Audience Segmentation: By analyzing customers demographic data and profiles, we can gain insights in to which demographics respond best to campaigns or whether certain age groups, genders, or geographic regions respond more favorably to marketing campaigns. These insights can inform decisions on targeted messaging or content for each of the customers’ specific group. 
+1.	Assess the Campaign Effectiveness: By examining the data on campaign successes and failure, we can determine which of the marketing campaign have the best ROI and was most in driving sales which will help the company in making important decisions about resource allocation.
+2.	Which of the products generated the highest profit, and which one generated the lowest?
+3.	Does the overall income of an household have an effect on the purchasing power of the family?
+4.	Does the customers' educational level have an impact on the medium of purchase
+5.	What Are Customer Preferences and Trends: Identifying patterns in consumer behavior, preferences, and engagement. Understanding how customers interact with the company’s products can provide valuable insights into tailoring marketing strategies to meet their needs.
+6.	Refine Target Audience Segmentation: By analyzing customers demographic data and profiles, we can gain insights in to which demographics respond best to campaigns or whether certain age groups, genders, or geographic regions respond more favorably to marketing campaigns. These insights can inform decisions on targeted messaging or content for each of the customers’ specific group.
+7.	Any other data-driven insights into the sales data. 
 ## Data Gathering 
 	The dataset was provided online as part of the Data Analytics challenge from a fictitious Maven Marketing Company. Thereafter, the dataset was loaded into Excel for analysis. 
 ## Data Exploration and Cleaning 
